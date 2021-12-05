@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors, Lizard, Spock game in Vanilla JS
+# Rock, Paper, Scissors, Lizard, Spock game in vanilla JS
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://www.github.com/benjaminchacko/My-Portfolio-App-Back-End/graphs/commit-activity)
 ![Last Updated:](https://img.shields.io/badge/Last%20Updated-12%7C04%20%7C2021-yellow.svg)
