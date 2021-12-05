@@ -96,6 +96,8 @@ const getResults = (userChoice, computerChoice) => {
       return resultDisplay.innerText = `You chose ${userChoice}, the computer chose ${computerChoice}, scissors decapitates lizard... so Computer Wins!`
     case 'paperlizard':
       return resultDisplay.innerText = `You chose ${userChoice}, the computer chose ${computerChoice}, lizard eats paper... so Computer Wins!`
+    case 'spockpaper':
+      return resultDisplay.innerText = `You chose ${userChoice}, the computer chose ${computerChoice}, paper disproves Spock... so Computer Wins!`
     case 'rockspock':
       return resultDisplay.innerText = `You chose ${userChoice}, the computer chose ${computerChoice}, Spock vaporizes rock... so Computer Wins!`
     case 'scissorsrock':
