@@ -40,6 +40,7 @@ In the future, I would like to update this project to use WebSockets to allow tw
 - `Switch`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
 - `addEventListener('click')`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/Document/addEventListener
 - `appendChild`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
+- `event.target`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/Event/target
 
 ##### TODO:
 
