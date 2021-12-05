@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors, Lizard, Spock game in Vanilla JS
+# Rock, Paper, Scissors, Lizard, Spock game in vanilla JS
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://www.github.com/benjaminchacko/My-Portfolio-App-Back-End/graphs/commit-activity)
 ![Last Updated:](https://img.shields.io/badge/Last%20Updated-12%7C04%20%7C2021-yellow.svg)
@@ -7,7 +7,7 @@
 
 ## Project Description
 
-This repository is a Rock, Paper, Scissors, Lizard, Spock game that I built to practice my Vanila JavaScript skills.
+This repository is a Rock, Paper, Scissors, Lizard, Spock game that I built to practice my Vanilla JavaScript skills.
 
 Rock, Paper, Scissors, Lizard, Spock is a game invented by <a href='http://www.samkass.com/theories/RPSSL.html' target="_blank">Sam Kass</a> and <a href="http://www.karenbryla.com/" target="_blank">Karen Bryla</a> as an improvement on the classic Rock-Paper-Scissors game due to the fact that when you know someone well enough, 75-80% of any Rock-Paper-Scissors games you play with that person end up in a tie.
 
