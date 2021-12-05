@@ -1,0 +1,17 @@
+{
+  "name": "rpsls-vanilla-js",
+  "author": "Benjamin T. Chacko",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html --port 3000",
+    "build": "parcel build src/index.html --dist-dir dist"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "engines": {
+    "node": ">= 12"
+  }
+}

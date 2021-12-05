@@ -1,0 +1,9 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(aqua, white,red, white);
+}
+
+#header{
+    margin: auto;
+    text-align: center;
+}
