@@ -53,15 +53,6 @@ const handleClick = (e) => {
 
 }
 
-/* // write a function to simulate computer thinking and display the result
-function computerThinking() {
-  resultDisplay.innerHTML = "Computer is thinking..."
-  setTimeout(() => {
-    resultDisplay.innerHTML = ""
-  }
-    , 2000)
-} */
-
 /**
  * uses the JS forEach method on the choices array to create buttons for the user to choose from.
  * 
