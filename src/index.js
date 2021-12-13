@@ -37,9 +37,30 @@ const choices = ['rock', 'paper', 'scissors', "lizard", "spock"]
 
 const handleClick = (e) => {
   const userChoice = e.target.innerHTML
-  const computerChoice = choices[Math.floor(Math.random() * choices.length)]
-  getResults(userChoice, computerChoice)
+  setTimeout(() => {
+    resultDisplay.innerHTML = `You chose ${userChoice}, good luck!`
+  }
+    , 1 * 1000)
+  setTimeout(() => {
+    resultDisplay.innerHTML = "AI is thinking..."
+  }
+    , 2 * 4000)
+  setTimeout(() => {
+    const computerChoice = choices[Math.floor(Math.random() * choices.length)]
+    getResults(userChoice, computerChoice)
+  }
+    , 3 * 4000)
+
 }
+
+/* // write a function to simulate computer thinking and display the result
+function computerThinking() {
+  resultDisplay.innerHTML = "Computer is thinking..."
+  setTimeout(() => {
+    resultDisplay.innerHTML = ""
+  }
+    , 2000)
+} */
 
 /**
  * uses the JS forEach method on the choices array to create buttons for the user to choose from.

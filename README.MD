@@ -39,6 +39,7 @@ In the future, I would like to update this project to use WebSockets to allow tw
 - `Math.random`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 - `Switch`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
 - `addEventListener('click')`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/Document/addEventListener
+- `setTimeout()`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setTimeout
 - `appendChild`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
 - `event.target`, MDN documentation - https://developer.mozilla.org/en-US/docs/Web/API/Event/target
 
