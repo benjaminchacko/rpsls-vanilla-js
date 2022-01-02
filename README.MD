@@ -21,7 +21,7 @@ You can play this game vs the computer <a href="https://codesandbox.io/s/rpsls-v
 
 I have documented the code in the `index.js` with comment blocks.
 
-In the future, I would like to update this project to use WebSockets to allow two human players to play against each other. Feel free to fork the repo and make any additions/improvements as desired.
+In the future, I would like to update this project to use Socket.io to allow two human players to play against each other. Feel free to fork the repo and make any additions/improvements as desired.
 
 ## Key JavaScript Functions/Methods Used
 
@@ -46,7 +46,7 @@ In the future, I would like to update this project to use WebSockets to allow tw
 ##### TODO:
 
 - Improve CSS styling to the game
-- Use Websockets to add two human player functionality
+- Use Socket.io to add two human player functionality
 
 ## How to develop locally on your computer
 
